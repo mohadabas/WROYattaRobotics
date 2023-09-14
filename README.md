@@ -7,9 +7,9 @@ Welcome to the Future Engineers Team GitHub repository! This repository contains
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
-- [Design and components](# Design and components)
-- [Libraries and Code](# Libraries and Code)
-- [Repository Folders](# Repository Folders)
+- [Design and components](#Design and components)
+- [Libraries and Code](#Libraries and Code)
+- [Repository Folders](#Repository Folders)
 - [Contributing](#contributing)
 - [License](#license)
 
