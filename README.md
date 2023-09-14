@@ -7,11 +7,9 @@ Welcome to the Future Engineers Team GitHub repository! This repository contains
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
-- [Design and components](#Design and components)
-- [Libraries and Code](#Libraries and Code)
-- [Repository Folders](#Repository Folders)
-- [Contributing](#contributing)
-- [License](#license)
+- [Design and components](#design and components)
+- [Libraries and Code](#libraries and code)
+- [Repository Folders](#repository folders)
 
 ## Introduction
 
@@ -26,7 +24,7 @@ To get started with our projects, follow these steps:
 3. Explore our project folders to find the one you're interested in.
 4. Read the project-specific documentation to understand how to set up and use each project.
 
-## Design and components
+## Design and Components
 
 To build our project we use these components:
 
