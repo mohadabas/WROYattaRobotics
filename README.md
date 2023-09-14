@@ -51,9 +51,14 @@ To control the robot components, we used GPIO and GPIOZero modules.
 	1.Test files: some codes to test sensors, color detection, motors ,etc.
 	2.First stage: the code used to pass the first stage of the competition.
 	3.Final stage: the code used to pass the competition final.
+ 
 2-Pictures: all photos taken for the team and the robot.
+
 3-Videos: contains readme file that contains links to youtube videos of our robot and some low-quality small size videos.
+
 4-Diagrams: Png file that show the circuit design of our robot created with fritzing.
+
+5-chasis : diagrams for rc car main components
 
 
 
